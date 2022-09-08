@@ -1,0 +1,2 @@
+# Document-Retrieval-System
+The aim of this project is to implement a simple text retrieval system. You should implement a simple UI  that gets a search keyword from the user and shows the matching documents with title, date, and document body (content). I have uploaded the Pdf file which is written all the details. also the source code for this project which I developed it.  during my master's degree course, I found this project exciting, interesting, and difficult. 
