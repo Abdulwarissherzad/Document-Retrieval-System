@@ -7,3 +7,5 @@ Extract the content of reuters21578.tar.gz
 Please just take a look at only the files with the .sgm extension that are text files. Each .sgm file contains many
 # I already upload the reuters21578.tar.gz , I download it and then upload it
 please download it to the specific folder and then extracted it. 
+# Read the PDF file, Download the Reuters 21578-mld from the embedded link in PDF file
+this project was my final project for the OOP course for my master's degree. I am adding here that pdf file for the downloading of the complete file. 
