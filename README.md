@@ -1,5 +1,6 @@
 
 ## Acknowledgements
+![Language](https://camo.githubusercontent.com/485a68348020ebe06b5d54ce052ff5262ea66d9926c61cc17143a8b4d0c012d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e67756167652d4a6176612d626c7565)
 
 There are many standard text collections of text categorization. Reuters-21578 dataset is one of
 them. This collection has been used widely in a number of studies especially in information
