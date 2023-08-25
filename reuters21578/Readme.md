@@ -8,7 +8,9 @@ Please just take a look at only the files with the .sgm extension that are text 
 # I already uploaded the reuters21578.tar.gz , I download it and then upload it
 please download it to the specific folder and then extracted it. 
 # Read the PDF file, Download the Reuters 21578-mld from the embedded link in the PDF file
+
 ![Dynamic JSON Badge](https://github.com/Abdulwarissherzad/Document-Retrieval-System/blob/main/reuters21578/CPE501_Project.pdf)
+
 This project was my final project for the OOP course for my master's degree. I am adding here that pdf file for the downloading of the complete file. 
 # Screenshot of out file
 ![App Screenshot 'Out Put after slected news'](https://github.com/Abdulwarissherzad/Document-Retrieval-System/blob/main/Pictures/SGM%20File.jpg)
